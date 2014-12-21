@@ -10,7 +10,7 @@ c. README.md
 
 Instructions
 
-Clone the code using 'git clone https://github.com/apoorvkumar91/Developing-Data-Products.git YOURDIRECTORY'
+Clone the code using 'git clone https://github.com/piyush24-nitk/Developing-Data-Products.git YOURDIRECTORY'
 
 OR
 
@@ -30,4 +30,4 @@ Dependencies: Shiny library
 
 More Information
 
-The application is deployed on ShinyApps.io at https://apoorvkumar91.shinyapps.io/Assignment/
+The application is deployed on ShinyApps.io at https://piyush24-nitk.shinyapps.io/Assignment/

@@ -30,4 +30,4 @@ Dependencies: Shiny library
 
 More Information
 
-The application is deployed on ShinyApps.io at https://piyush24-nitk.shinyapps.io/Assignment/
+The application is deployed on ShinyApps.io at https://piyush24-nitk.shinyapps.io/piyush24-nitk/
